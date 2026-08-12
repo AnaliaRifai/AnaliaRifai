@@ -40,7 +40,7 @@ Automated Excel solution designed to clean and organize data, streamline reporti
 
 **Tools:** Excel · VBA · Pivot Tables
 
-🔗 Repository coming soon
+🔗 [Ver proyecto completo](https://github.com/AnaliaRifai/excel-automated-reporting-dashboard)
 
 <br>
 
