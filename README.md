@@ -32,6 +32,8 @@ Interactive sales dashboard designed to analyze business performance through KPI
 
 **Tools:** Power BI · Power Query · DAX · Excel
 
+🔗 [Ver proyecto completo](https://github.com/AnaliaRifai/power-bi-sales-executive-dashboard)
+
 <br>
 
 ### 📊 Automated Reporting Dashboard | Excel
