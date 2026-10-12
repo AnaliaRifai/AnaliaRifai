@@ -26,13 +26,13 @@ Focused on transforming data into clear and actionable insights through analysis
 
 ## 📊 Featured Projects
 
-### 📈 Sales Executive Dashboard | Power BI
+### 📈 Dashboard Ejecutivo de Ventas| Power BI
 
 Interactive sales dashboard designed to analyze business performance through KPIs, targets, rankings, and dynamic analysis by customer, product, channel, and period.
 
 **Tools:** Power BI · Power Query · DAX · Excel
 
-🔗 [Ver proyecto completo](https://github.com/AnaliaRifai/power-bi-sales-executive-dashboard)
+🔗 [Ver proyecto completo](https://github.com/AnaliaRifai/dashboard-ejecutivo-ventas-power-bi)
 
 <br>
 
