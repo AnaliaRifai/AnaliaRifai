@@ -36,15 +36,6 @@ Interactive sales dashboard designed to analyze business performance through KPI
 
 <br>
 
-### 📊 Automated Reporting Dashboard | Excel
-
-Automated Excel solution designed to clean and organize data, streamline reporting tasks, and visualize key information through an interactive dashboard.
-
-**Tools:** Excel · VBA · Pivot Tables
-
-🔗 [Ver proyecto completo](https://github.com/AnaliaRifai/excel-automated-reporting-dashboard)
-
-<br>
 
 ## 📚 Currently Learning
 
