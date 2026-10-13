@@ -1,50 +1,65 @@
-# Hi, I'm Analia 👋
 
-### Data Analyst | Excel · Power BI · SQL
+# ¡Hola! Soy Analía Rifai 👋
 
-Focused on transforming data into clear and actionable insights through analysis, visualization, and reporting.
-<br><br>
+**Data Analyst | Excel · Power BI · SQL · Python**
 
+Ingeniera Agrónoma en transición hacia Data Analytics, con experiencia en gestión de información técnica y desarrollo de proyectos de análisis y automatización de datos.
 
-## 👩‍💻 About Me
+Actualmente me especializo en herramientas de Business Intelligence, SQL y Python a través del programa **IPS DATAX**.
 
-- 📊 I develop data analysis projects using **Excel**, **Power BI**, and **SQL**, including data cleaning, analysis, automation, and interactive dashboards.
-- 🎓 I'm currently completing an intensive **Data Analytics program at IPS DATAX**, working on practical projects and strengthening my technical skills.
-- 🌎 I'm interested in opportunities as a **Data Analyst**, particularly in remote and international environments.
+Me interesa convertir datos en información útil para resolver problemas y mejorar la toma de decisiones.
 
-<br>
+---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologías
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+### Análisis y visualización
 
-<br>
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat) ![DAX](https://img.shields.io/badge/DAX-4566A2?style=flat)
 
-## 📊 Featured Projects
+### Bases de datos
 
-### 📈 Dashboard Ejecutivo de Ventas| Power BI
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-Interactive sales dashboard designed to analyze business performance through KPIs, targets, rankings, and dynamic analysis by customer, product, channel, and period.
+### Programación
 
-**Tools:** Power BI · Power Query · DAX · Excel
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-🔗 [Ver proyecto completo](https://github.com/AnaliaRifai/dashboard-ejecutivo-ventas-power-bi)
+---
 
-<br>
+## 📂 Proyectos destacados
 
+### 📊 Dashboard Ejecutivo de Ventas | Power BI
 
-## 📚 Currently Learning
+Análisis comercial de 2024 a partir de un dataset con inconsistencias.
 
-- 🔎 Advanced SQL for data analysis and database querying.
+**Qué desarrollé:** limpieza de datos, modelo estrella, 16 medidas DAX y dashboard interactivo.
 
+**Resultado:** identifiqué seis meses consecutivos de cumplimiento de metas, aunque el objetivo anual quedó en 95,44 %.
 
-<br>
+[Ver proyecto →](https://github.com/AnaliaRifai/dashboard-ejecutivo-ventas-power-bi)
 
-## 📫 Connect with Me
+### 🐍 Pipeline de Datos de Laboratorio | Python
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Analia%20Rifai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/analiarifai)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:analia.rifai.95@gmail.com)
+Automatización del procesamiento de informes históricos de laboratorio de 2018 a 2026.
+
+**Qué desarrollé:** un proceso para leer archivos Excel con distintas estructuras, estandarizar información, validar registros y generar una base consolidada.
+
+**Aplicación:** transformar registros técnicos dispersos en información organizada y reutilizable para análisis posteriores.
+
+[Ver proyecto →](https://github.com/AnaliaRifai/pipeline-laboratorio-python)
+
+---
+
+## 🚀 Actualmente
+
+- Desarrollando proyectos de Data Analytics para mi portfolio.
+- Fortaleciendo mis conocimientos de SQL, Python y Business Intelligence.
+- Buscando oportunidades remotas como **Data Analyst**.
+
+---
+
+## 📬 Contacto
+
+[LinkedIn](https://www.linkedin.com/in/analiarifai) · [GitHub](https://github.com/AnaliaRifai)
+  
