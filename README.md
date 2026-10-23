@@ -3,11 +3,11 @@
 
 **Data Analyst | Excel · Power BI · SQL · Python**
 
-Ingeniera Agrónoma en transición hacia Data Analytics, con experiencia en gestión de información técnica y desarrollo de proyectos de análisis y automatización de datos.
+Soy Analista de Datos con formación en Ingeniería Agronómica y experiencia en investigación, organización de información y elaboración de informes técnicos.
 
-Actualmente me especializo en herramientas de Business Intelligence, SQL y Python a través del programa **IPS DATAX**.
+Desarrollo proyectos de limpieza, transformación, automatización y visualización de datos utilizando Excel, Power Query, Power BI y Python. Actualmente continúo fortaleciendo mis conocimientos de SQL y Python a través del programa IPS DATAX.
 
-Me interesa convertir datos en información útil para resolver problemas y mejorar la toma de decisiones.
+Busco incorporarme a un equipo de trabajo remoto donde pueda aplicar mis conocimientos, optimizar procesos y aportar información útil para la toma de decisiones.
 
 ---
 
