@@ -51,13 +51,6 @@ Automatización del procesamiento de informes históricos de laboratorio de 2018
 
 ---
 
-## 🚀 Actualmente
-
-- Desarrollando proyectos de Data Analytics para mi portfolio.
-- Fortaleciendo mis conocimientos de SQL, Python y Business Intelligence.
-- Buscando oportunidades remotas como **Data Analyst**.
-
----
 
 ## 📬 Contacto
 
