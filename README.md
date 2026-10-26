@@ -29,16 +29,6 @@ Busco incorporarme a un equipo de trabajo remoto donde pueda aplicar mis conocim
 
 ## 📂 Proyectos destacados
 
-### 📊 Dashboard Ejecutivo de Ventas | Power BI
-
-Análisis comercial de 2024 a partir de un dataset con inconsistencias.
-
-**Qué desarrollé:** limpieza de datos, modelo estrella, 16 medidas DAX y dashboard interactivo.
-
-**Resultado:** identifiqué seis meses consecutivos de cumplimiento de metas, aunque el objetivo anual quedó en 95,44 %.
-
-[Ver proyecto →](https://github.com/AnaliaRifai/dashboard-ejecutivo-ventas-power-bi)
-
 ### 🐍 Pipeline de Datos de Laboratorio | Python
 
 Automatización del procesamiento de informes históricos de laboratorio de 2018 a 2026.
@@ -48,6 +38,16 @@ Automatización del procesamiento de informes históricos de laboratorio de 2018
 **Aplicación:** transformar registros técnicos dispersos en información organizada y reutilizable para análisis posteriores.
 
 [Ver proyecto →](https://github.com/AnaliaRifai/pipeline-laboratorio-python)
+
+### 📊 Dashboard Ejecutivo de Ventas | Power BI
+
+Análisis comercial de 2024 a partir de un dataset con inconsistencias.
+
+**Qué desarrollé:** limpieza de datos, modelo estrella, 16 medidas DAX y dashboard interactivo.
+
+**Resultado:** identifiqué seis meses consecutivos de cumplimiento de metas, aunque el objetivo anual quedó en 95,44 %.
+
+[Ver proyecto →](https://github.com/AnaliaRifai/dashboard-ejecutivo-ventas-power-bi)
 
 ---
 
