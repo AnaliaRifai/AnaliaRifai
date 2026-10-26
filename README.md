@@ -31,11 +31,11 @@ Busco incorporarme a un equipo de trabajo remoto donde pueda aplicar mis conocim
 
 ### 🐍 Pipeline de Datos de Laboratorio | Python
 
-Automatización del procesamiento de informes históricos de laboratorio de 2018 a 2026.
+Normalización y consolidación de informes históricos de laboratorio de **2018 a 2026**.
 
-**Qué desarrollé:** un proceso para leer archivos Excel con distintas estructuras, estandarizar información, validar registros y generar una base consolidada.
+**Qué desarrollé:** un pipeline en Python para integrar datos de archivos Excel con distintas estructuras, estandarizar campos y validar registros.
 
-**Aplicación:** transformar registros técnicos dispersos en información organizada y reutilizable para análisis posteriores.
+**Resultados verificados:** **311 archivos fuente con muestras** identificados en los consolidados anuales; **1.422 registros** integrados en una base de **22 columnas**, sin duplicados según la clave compuesta año + número de muestra.
 
 [Ver proyecto →](https://github.com/AnaliaRifai/pipeline-laboratorio-python)
 
