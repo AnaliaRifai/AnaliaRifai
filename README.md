@@ -1,7 +1,7 @@
 
 # ¡Hola! Soy Analía Rifai 👋
 
-**Data Analyst | Excel · Power BI · SQL · Python**
+**Data Analyst | Power BI · Python · SQL · Excel**
 
 Soy Analista de Datos con formación en Ingeniería Agronómica y experiencia en investigación, organización de información y elaboración de informes técnicos.
 
