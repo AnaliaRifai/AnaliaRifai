@@ -54,5 +54,5 @@ Análisis comercial de 2024 a partir de un dataset con inconsistencias.
 
 ## 📬 Contacto
 
-[LinkedIn](https://www.linkedin.com/in/analiarifai) · [GitHub](https://github.com/AnaliaRifai)
+[LinkedIn](https://www.linkedin.com/in/analiarifai) · [Correo electrónico](mailto:analia.rifai.95@gmail.com)
   
