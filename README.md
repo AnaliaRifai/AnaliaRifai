@@ -43,7 +43,7 @@ Normalización y consolidación de informes históricos de laboratorio de **2018
 
 Análisis comercial de 2024 a partir de un dataset con inconsistencias.
 
-**Qué desarrollé:** limpieza de datos, modelo estrella, 16 medidas DAX y dashboard interactivo.
+**Qué desarrollé:** limpieza de datos, modelo estrella, 22 medidas DAX y dashboard interactivo.
 
 **Resultado:** identifiqué seis meses consecutivos de cumplimiento de metas, aunque el objetivo anual quedó en 95,44 %.
 
